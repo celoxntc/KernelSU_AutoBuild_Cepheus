@@ -1,10 +1,10 @@
 name: PE2
 
 env:
-  KERNEL_SOURCE: 'https://github.com/PixelExperience-Devices/kernel_xiaomi_cepheus'
+  KERNEL_SOURCE: 'https://github.com/EcrosoftXiao/kernel_xiaomi_cepheus'
   KERNEL_SOURCE_BRANCH: 'eleven'
   KERNEL_DEFCONFIG: 'cepheus-stock_defconfig'
-  KERNEL_NAME: 'pixelExperience-cepheus'
+  KERNEL_NAME: 'Eleven-cepheus'
 
 on:
 #   schedule:
