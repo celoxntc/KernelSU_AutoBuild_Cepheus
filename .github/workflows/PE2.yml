@@ -3,7 +3,7 @@ name: PE2
 env:
   KERNEL_SOURCE: 'https://github.com/PixelExperience-Devices/kernel_xiaomi_cepheus'
   KERNEL_SOURCE_BRANCH: 'twelve'
-  KERNEL_DEFCONFIG: 'cepheus_defconfig'
+  KERNEL_DEFCONFIG: 'cepheus-stock_defconfig'
   KERNEL_NAME: 'PixelExperience'
 
 on:
